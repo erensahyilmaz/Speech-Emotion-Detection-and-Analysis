@@ -1,6 +1,6 @@
 # Speech-Emotion-Detection-and-Analysis
 
-### Data Toplama
+# Data Toplama
 **Speech-Emotion-Detection-and-Analysis** duygu analizi için ses verisi toplama amacıyla geliştirilmiş bir Python programıdır. Bu program, özellikle YouTube'dan ses verilerini indirir ve verileri sesli duygu analizine uygun formatta işler. Topladığı ses dosyalarını belirli kategorilere ayırarak, daha sonra analiz edebilecek şekilde düzenler.
 
 ## Proje Özeti
@@ -37,10 +37,9 @@ Programı çalıştırmak için aşağıdaki bağımlılıkların yüklü olmas�
 - `os`: Dosya yolu işlemleri için kullanılır.
 - `selenium` : Web tarayıcısını otomatikleştirmek için kullanılır.
 - `beautifulsoup4` : HTML ve XML verilerini işlemek için kullanılır.
-## Google Drive Linki: https://drive.google.com/drive/folders/1ND_xq83rLYEkg_mtz7T2H_3nS4CB1Ny8
 
-### Model Eğitimi 
-# Yapay Zeka ile Ses Verisi Analizi: Transformer Modellerinin Karşılaştırılması
+# Model Eğitimi 
+## Yapay Zeka ile Ses Verisi Analizi: Transformer Modellerinin Karşılaştırılması
 
 Bu proje, ses verisi üzerinde **Hubert**, **Wav2vec**, **WavLM** ve **Data2Vec** gibi dört farklı transformör modelinin performansını karşılaştırmayı amaçlamaktadır. Modeller, ses sinyallerinin özelliklerini analiz etmek ve farklı duygusal durumları tanımlamak için çeşitli metrikler ve görselleştirme yöntemleri kullanmıştır.
 

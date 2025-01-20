@@ -41,7 +41,7 @@ Programı çalıştırmak için aşağıdaki bağımlılıkların yüklü olmas�
 # Model Eğitimi 
 ## Yapay Zeka ile Ses Verisi Analizi: Transformer Modellerinin Karşılaştırılması
 
-Bu proje, ses verisi üzerinde **Hubert**, **Wav2vec**, **WavLM** ve **Data2Vec** gibi dört farklı transformör modelinin performansını karşılaştırmayı amaçlamaktadır. Modeller, ses sinyallerinin özelliklerini analiz etmek ve farklı duygusal durumları tanımlamak için çeşitli metrikler ve görselleştirme yöntemleri kullanmıştır.
+Projenin bu kısmında, ses verisi üzerinde **Hubert**, **Wav2vec**, **WavLM** ve **Data2Vec** gibi dört farklı transformör modelinin performansını karşılaştırmayı amaçlamaktadır. Modeller, ses sinyallerinin özelliklerini analiz etmek ve farklı duygusal durumları tanımlamak için çeşitli metrikler ve görselleştirme yöntemleri kullanmıştır.
 
 ## Proje Özeti
 
